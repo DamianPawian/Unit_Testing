@@ -1,0 +1,22 @@
+{
+  "name": "unit-testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DamianPawian/Unit_Testing.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DamianPawian/Unit_Testing/issues"
+  },
+  "homepage": "https://github.com/DamianPawian/Unit_Testing#readme",
+  "devDependencies": {
+    "jest": "^24.0.0"
+  }
+}
