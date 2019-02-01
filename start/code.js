@@ -1,3 +1,3 @@
-const startFunction = () => "Screw you world";
+const startFunction = () => "Hello World";
 
 module.exports = startFunction;
