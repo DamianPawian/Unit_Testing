@@ -6,5 +6,5 @@ test('check if greets the world properly', () => {
 
 
 test('check if greets the Tomek properly', () => {
-  expect(testFunction("Tomek")).toBe("Tomek World");
+  expect(testFunction("Tomek")).toBe("Hello Tomek");
 });
